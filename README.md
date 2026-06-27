@@ -78,6 +78,24 @@ MealConnect/
 │   └── package.json
 │
 ├── frontend/
+│   ├── eslint.config.js
+│   ├── package-lock.json
+│   ├── uno.config.js
+│   ├── vite.config.js
+│   └── public/
+    │   ├── home.PNG
+    │   ├── peep.PNG
+    │   ├── peep1.PNG
+    │    └── peep2.PNG
+      src/
+    │   ├── assets/
+    │   ├── components/
+    │   ├── pages/
+    │   ├── utils/
+        |── App.css
+        |── index.css
+        |── main.js
+
 │
 └── README.md
 ```
